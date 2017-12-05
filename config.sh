@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone https://bitbucket.org/stefanholek/pki-example-2 && cd pki-example-2
+git clone https://github.com/jonathancross/xmr-stunnel.git && cd xmr-stunnel
 
 COUNTRY="ZA"
 STATE="Ponies"
